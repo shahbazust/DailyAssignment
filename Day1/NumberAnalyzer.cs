@@ -27,23 +27,13 @@ namespace Day1
             }
         }
 
-       public  void Factorial(int num)
+       public  long Factorial(int num)
         {
-            int fact=1;
             if(num==0 || num ==1)
             {
-                Console.WriteLine("Factorial of "+num+" is "+fact);
-                return;
+                return 1;
             }
-            else
-            {
-                for(int i=num;i>1;i--)
-                {
-                    fact*=i;
-                }
-                Console.WriteLine("Factorial of "+num+" is "+fact);
-
-            }
+            return num*Factorial(num -1);
         }
     }
 }

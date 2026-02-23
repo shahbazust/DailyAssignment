@@ -12,3 +12,4 @@ C:\Users\307424\Documents\TrumioUdemy\DailyAssignment\Day1\obj\Debug\net10.0\ref
 C:\Users\307424\Documents\TrumioUdemy\DailyAssignment\Day1\obj\Debug\net10.0\Day1.pdb
 C:\Users\307424\Documents\TrumioUdemy\DailyAssignment\Day1\obj\Debug\net10.0\Day1.genruntimeconfig.cache
 C:\Users\307424\Documents\TrumioUdemy\DailyAssignment\Day1\obj\Debug\net10.0\ref\Day1.dll
+C:\Users\307424\Documents\TrumioUdemy\DailyAssignment\Day1\obj\Debug\net10.0\Day1.sourcelink.json
