@@ -1,6 +1,6 @@
 namespace Day1
 {
-    class NumberAnalyzer
+   public class NumberAnalyzer
     {
        public  void PrimeNumber(int num)
         {

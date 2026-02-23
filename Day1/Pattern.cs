@@ -1,6 +1,6 @@
 namespace Day1
 {
-    class Calculator
+   public class Pattern
     {
         int n=Convert.ToInt32(Console.ReadLine());
         public void Pattern1()
