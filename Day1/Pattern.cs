@@ -2,12 +2,17 @@ namespace Day1
 {
    public class Pattern
     {
-        int n=Convert.ToInt32(Console.ReadLine());
+        
+        
         public void Pattern1()
         {
+            Console.Write("Enter number = ");
+            int n=Convert.ToInt32(Console.ReadLine());
             for(int i=0;i<n ;i++)
             {
-                Console.Write("* ");
+                for(int j=0;j<=i;j++)
+                     Console.Write("* ");
+                Console.WriteLine();
             }
         }
     }
