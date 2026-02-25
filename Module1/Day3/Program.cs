@@ -14,7 +14,7 @@ class Program
     {
         IAppLogger logger = new FileLogger();
 
-        Console.WriteLine("=== STUDENT MANAGEMENT ===");
+        Console.WriteLine("STUDENT MANAGEMENT ");
 
         // Seed data
         var s1 = new Student("Meraj", "Alam", "meraj@gmail.com", new DateTime(2001, 5, 12));

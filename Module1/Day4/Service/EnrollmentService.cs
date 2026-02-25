@@ -5,7 +5,7 @@ using StudentManagement.Repository;
 
 namespace StudentManagement.Service;
 
-public sealed class EnrollmentService
+public  class EnrollmentService
 {
     private readonly IStudentRepository _students;
     private readonly ICourseRepository _courses;

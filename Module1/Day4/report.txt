@@ -1,0 +1,23 @@
+STUDENT MANAGEMENT
+
+-- Active Enrollments --
+Enrollment: a57dc1f0-c299-472b-8cf7-35f65b91cee3
+ Student: User1 No7
+ Course : CS999 - Special Topics
+ Grade  : NotGraded
+Enrollment: 3687095b-64aa-4e7d-bf0b-8c551d4aaade
+ Student: User4 No7
+ Course : CS999 - Special Topics
+ Grade  : F
+Enrollment: f0288591-1a02-453d-ab1e-f7287e7184e3
+ Student: User2 No7
+ Course : CS999 - Special Topics
+ Grade  : NotGraded
+Enrollment: d2ca7c3e-a64c-4e2f-b3e3-5f57471e69e2
+ Student: User3 No7
+ Course : CS999 - Special Topics
+ Grade  : C
+Enrollment: c82a2e76-0536-42ae-83bc-968770df2a66
+ Student: User4 No6
+ Course : CS999 - Special Topics
+ Grade  : NotGraded

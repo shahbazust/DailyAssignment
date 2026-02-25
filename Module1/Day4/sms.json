@@ -1,0 +1,109 @@
+﻿{
+  "students": [
+    {
+      "email": "user1_7@mail.com",
+      "dateOfBirth": "1999-06-08T00:00:00",
+      "age": 26,
+      "enrolledOn": "2026-02-25T15:59:41.8512671+05:30",
+      "isActive": true,
+      "id": "658f95f0-762b-4075-bb75-a8bf4951b418",
+      "firstName": "User1",
+      "lastName": "No7",
+      "fullName": "User1 No7"
+    },
+    {
+      "email": "user4_6@mail.com",
+      "dateOfBirth": "2003-08-12T00:00:00",
+      "age": 22,
+      "enrolledOn": "2026-02-25T15:59:41.8512671+05:30",
+      "isActive": true,
+      "id": "31a09ea3-0832-4dee-a784-febf76d6a785",
+      "firstName": "User4",
+      "lastName": "No6",
+      "fullName": "User4 No6"
+    },
+    {
+      "email": "user3_7@mail.com",
+      "dateOfBirth": "2003-07-10T00:00:00",
+      "age": 22,
+      "enrolledOn": "2026-02-25T15:59:41.8513611+05:30",
+      "isActive": true,
+      "id": "a9d075f0-f198-478d-942f-b706d162adae",
+      "firstName": "User3",
+      "lastName": "No7",
+      "fullName": "User3 No7"
+    },
+    {
+      "email": "user2_7@mail.com",
+      "dateOfBirth": "1995-11-25T00:00:00",
+      "age": 30,
+      "enrolledOn": "2026-02-25T15:59:41.8513992+05:30",
+      "isActive": true,
+      "id": "49d5be6e-2e3c-4780-baa3-876b21c3090d",
+      "firstName": "User2",
+      "lastName": "No7",
+      "fullName": "User2 No7"
+    },
+    {
+      "email": "user4_7@mail.com",
+      "dateOfBirth": "1999-12-13T00:00:00",
+      "age": 26,
+      "enrolledOn": "2026-02-25T15:59:41.8833088+05:30",
+      "isActive": true,
+      "id": "1cbe8c3d-306a-4e28-9bb6-0dc39b9e8e65",
+      "firstName": "User4",
+      "lastName": "No7",
+      "fullName": "User4 No7"
+    }
+  ],
+  "courses": [
+    {
+      "id": "a3622f8a-0f6b-4205-a9c4-e77858c97490",
+      "code": "CS999",
+      "title": "Special Topics",
+      "credits": 3
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "3687095b-64aa-4e7d-bf0b-8c551d4aaade",
+      "studentId": "1cbe8c3d-306a-4e28-9bb6-0dc39b9e8e65",
+      "courseId": "a3622f8a-0f6b-4205-a9c4-e77858c97490",
+      "enrolledOn": "2026-02-25T15:59:41.8833415+05:30",
+      "grade": -1,
+      "isActive": false
+    },
+    {
+      "id": "f0288591-1a02-453d-ab1e-f7287e7184e3",
+      "studentId": "49d5be6e-2e3c-4780-baa3-876b21c3090d",
+      "courseId": "a3622f8a-0f6b-4205-a9c4-e77858c97490",
+      "enrolledOn": "2026-02-25T15:59:41.8514021+05:30",
+      "grade": 0,
+      "isActive": false
+    },
+    {
+      "id": "d2ca7c3e-a64c-4e2f-b3e3-5f57471e69e2",
+      "studentId": "a9d075f0-f198-478d-942f-b706d162adae",
+      "courseId": "a3622f8a-0f6b-4205-a9c4-e77858c97490",
+      "enrolledOn": "2026-02-25T15:59:41.8513701+05:30",
+      "grade": 6,
+      "isActive": false
+    },
+    {
+      "id": "c82a2e76-0536-42ae-83bc-968770df2a66",
+      "studentId": "31a09ea3-0832-4dee-a784-febf76d6a785",
+      "courseId": "a3622f8a-0f6b-4205-a9c4-e77858c97490",
+      "enrolledOn": "2026-02-25T15:59:41.8513006+05:30",
+      "grade": 0,
+      "isActive": false
+    },
+    {
+      "id": "a57dc1f0-c299-472b-8cf7-35f65b91cee3",
+      "studentId": "658f95f0-762b-4075-bb75-a8bf4951b418",
+      "courseId": "a3622f8a-0f6b-4205-a9c4-e77858c97490",
+      "enrolledOn": "2026-02-25T15:59:41.8512933+05:30",
+      "grade": 0,
+      "isActive": true
+    }
+  ]
+}
