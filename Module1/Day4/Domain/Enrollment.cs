@@ -15,7 +15,7 @@ namespace StudentManagement.Domain
         public Enrollment(Guid studentId, Guid courseId)
         {
             if (studentId == Guid.Empty || courseId == Guid.Empty)
-                throw new ArgumentException("Invalid foreign keys");
+                throw new ArgumentException(" Student id and course id must be there");
             StudentId = studentId;
             CourseId = courseId;
         }

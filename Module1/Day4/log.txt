@@ -1,5 +1,4 @@
-2026-02-25 15:59:41 [INFO] User4: Dropped enrollment c82a2e76-0536-42ae-83bc-968770df2a66
-2026-02-25 15:59:41 [INFO] User3: Assigned C to enrollment d2ca7c3e-a64c-4e2f-b3e3-5f57471e69e2
-2026-02-25 15:59:41 [INFO] User2: Dropped enrollment f0288591-1a02-453d-ab1e-f7287e7184e3
-2026-02-25 15:59:41 [INFO] User4: Enrolled User4 No7 in CS999
-2026-02-25 15:59:41 [INFO] User4: Assigned F to enrollment 3687095b-64aa-4e7d-bf0b-8c551d4aaade
+2026-02-25 16:14:07 - User1: Dropped enrollment 93911e38-459a-4cd8-8b1a-40d18b941e4f
+2026-02-25 16:14:07 - User4: Enrolled User4 No7 in CS999
+2026-02-25 16:14:07 - User3: Enrolled User3 No7 in CS999
+2026-02-25 16:14:07 - User4: Dropped enrollment ea322b2d-96a7-4f7a-8f78-ca7c4a95d625

@@ -1,23 +1,262 @@
-STUDENT MANAGEMENT
+﻿=== STUDENT MANAGEMENT REPORT ===
+Generated: 2026-02-26 12:28:56
+------------------------------------------------------------
+Total Students: 85
+Total Courses : 1
+Total Enrolls : 85
 
--- Active Enrollments --
-Enrollment: a57dc1f0-c299-472b-8cf7-35f65b91cee3
- Student: User1 No7
- Course : CS999 - Special Topics
- Grade  : NotGraded
-Enrollment: 3687095b-64aa-4e7d-bf0b-8c551d4aaade
- Student: User4 No7
- Course : CS999 - Special Topics
- Grade  : F
-Enrollment: f0288591-1a02-453d-ab1e-f7287e7184e3
- Student: User2 No7
- Course : CS999 - Special Topics
- Grade  : NotGraded
-Enrollment: d2ca7c3e-a64c-4e2f-b3e3-5f57471e69e2
- Student: User3 No7
- Course : CS999 - Special Topics
- Grade  : C
-Enrollment: c82a2e76-0536-42ae-83bc-968770df2a66
- Student: User4 No6
- Course : CS999 - Special Topics
- Grade  : NotGraded
+Student: User3 No6 (user3_6@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User4 No6 (user4_6@mail.com)  Age: 22
+  - CS999 Special Topics (3 cr) | Grade: C | Active: False
+
+Student: User1 No7 (user1_7@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User4 No7 (user4_7@mail.com)  Age: 25
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User3 No7 (user3_7@mail.com)  Age: 29
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User2 No0 (user2_0@mail.com)  Age: 22
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User5 No0 (user5_0@mail.com)  Age: 24
+  - CS999 Special Topics (3 cr) | Grade: A | Active: False
+
+Student: User1 No0 (user1_0@mail.com)  Age: 28
+  - CS999 Special Topics (3 cr) | Grade: F | Active: False
+
+Student: User3 No0 (user3_0@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: F | Active: False
+
+Student: User4 No0 (user4_0@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User4 No1 (user4_1@mail.com)  Age: 24
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User3 No1 (user3_1@mail.com)  Age: 29
+  - CS999 Special Topics (3 cr) | Grade: A | Active: False
+
+Student: User2 No1 (user2_1@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User5 No1 (user5_1@mail.com)  Age: 21
+  - CS999 Special Topics (3 cr) | Grade: B | Active: False
+
+Student: User3 No2 (user3_2@mail.com)  Age: 24
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User1 No1 (user1_1@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: D | Active: False
+
+Student: User4 No2 (user4_2@mail.com)  Age: 24
+  - CS999 Special Topics (3 cr) | Grade: C | Active: False
+
+Student: User3 No3 (user3_3@mail.com)  Age: 23
+  - CS999 Special Topics (3 cr) | Grade: B | Active: False
+
+Student: User4 No3 (user4_3@mail.com)  Age: 23
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User2 No2 (user2_2@mail.com)  Age: 27
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User1 No2 (user1_2@mail.com)  Age: 27
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User5 No2 (user5_2@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: B | Active: False
+
+Student: User3 No4 (user3_4@mail.com)  Age: 28
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User4 No4 (user4_4@mail.com)  Age: 27
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User2 No3 (user2_3@mail.com)  Age: 28
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User3 No5 (user3_5@mail.com)  Age: 21
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User5 No3 (user5_3@mail.com)  Age: 31
+  - CS999 Special Topics (3 cr) | Grade: D | Active: False
+
+Student: User1 No3 (user1_3@mail.com)  Age: 23
+  - CS999 Special Topics (3 cr) | Grade: A | Active: False
+
+Student: User3 No6 (user3_6@mail.com)  Age: 24
+  - CS999 Special Topics (3 cr) | Grade: F | Active: False
+
+Student: User2 No4 (user2_4@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User4 No5 (user4_5@mail.com)  Age: 28
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User5 No4 (user5_4@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User1 No4 (user1_4@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: B | Active: False
+
+Student: User2 No5 (user2_5@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User3 No7 (user3_7@mail.com)  Age: 21
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User1 No5 (user1_5@mail.com)  Age: 27
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User5 No5 (user5_5@mail.com)  Age: 27
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User4 No6 (user4_6@mail.com)  Age: 29
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User2 No6 (user2_6@mail.com)  Age: 22
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User4 No7 (user4_7@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User1 No6 (user1_6@mail.com)  Age: 29
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User2 No7 (user2_7@mail.com)  Age: 25
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User5 No6 (user5_6@mail.com)  Age: 24
+  - CS999 Special Topics (3 cr) | Grade: C | Active: False
+
+Student: User1 No7 (user1_7@mail.com)  Age: 21
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User5 No7 (user5_7@mail.com)  Age: 21
+  - CS999 Special Topics (3 cr) | Grade: A | Active: False
+
+Student: User4 No0 (user4_0@mail.com)  Age: 24
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User3 No0 (user3_0@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User5 No0 (user5_0@mail.com)  Age: 28
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User1 No0 (user1_0@mail.com)  Age: 22
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User2 No0 (user2_0@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User4 No1 (user4_1@mail.com)  Age: 23
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User5 No1 (user5_1@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: A | Active: False
+
+Student: User2 No1 (user2_1@mail.com)  Age: 28
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User1 No1 (user1_1@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: A | Active: False
+
+Student: User3 No1 (user3_1@mail.com)  Age: 25
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User3 No2 (user3_2@mail.com)  Age: 27
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User1 No2 (user1_2@mail.com)  Age: 22
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User5 No2 (user5_2@mail.com)  Age: 28
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User2 No2 (user2_2@mail.com)  Age: 23
+  - CS999 Special Topics (3 cr) | Grade: A | Active: False
+
+Student: User4 No2 (user4_2@mail.com)  Age: 21
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User1 No3 (user1_3@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User3 No3 (user3_3@mail.com)  Age: 25
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User2 No3 (user2_3@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: F | Active: False
+
+Student: User4 No3 (user4_3@mail.com)  Age: 31
+  - CS999 Special Topics (3 cr) | Grade: D | Active: False
+
+Student: User5 No3 (user5_3@mail.com)  Age: 22
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User2 No4 (user2_4@mail.com)  Age: 28
+  - CS999 Special Topics (3 cr) | Grade: C | Active: False
+
+Student: User1 No4 (user1_4@mail.com)  Age: 29
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User3 No4 (user3_4@mail.com)  Age: 21
+  - CS999 Special Topics (3 cr) | Grade: F | Active: False
+
+Student: User5 No4 (user5_4@mail.com)  Age: 25
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User4 No4 (user4_4@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User2 No5 (user2_5@mail.com)  Age: 29
+  - CS999 Special Topics (3 cr) | Grade: F | Active: False
+
+Student: User5 No5 (user5_5@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: D | Active: False
+
+Student: User3 No5 (user3_5@mail.com)  Age: 24
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User4 No5 (user4_5@mail.com)  Age: 22
+  - CS999 Special Topics (3 cr) | Grade: A | Active: False
+
+Student: User1 No5 (user1_5@mail.com)  Age: 29
+  - CS999 Special Topics (3 cr) | Grade: D | Active: False
+
+Student: User2 No6 (user2_6@mail.com)  Age: 25
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User5 No6 (user5_6@mail.com)  Age: 22
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User1 No6 (user1_6@mail.com)  Age: 24
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User3 No6 (user3_6@mail.com)  Age: 25
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User5 No7 (user5_7@mail.com)  Age: 26
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User4 No6 (user4_6@mail.com)  Age: 25
+  - CS999 Special Topics (3 cr) | Grade: F | Active: False
+
+Student: User2 No7 (user2_7@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User1 No7 (user1_7@mail.com)  Age: 30
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+
+Student: User3 No7 (user3_7@mail.com)  Age: 21
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: False
+
+Student: User4 No7 (user4_7@mail.com)  Age: 28
+  - CS999 Special Topics (3 cr) | Grade: NotGraded | Active: True
+

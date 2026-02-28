@@ -33,7 +33,7 @@ namespace StudentManagement.Domain
         public Student(Guid id, string firstName, string lastName, string email, DateTime dateOfBirth, DateTime enrolledOn, bool isActive)
             : base(firstName, lastName)
         {
-            Id = id; // protected set in BasePerson
+            Id = id; 
             UpdateEmail(email);
             SetDateOfBirth(dateOfBirth);
             EnrolledOn = enrolledOn;

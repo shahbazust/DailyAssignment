@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace StudentManagement.Domain
 {
-    public sealed class Course
+    public  class Course
     {
         public Guid Id { get; } = Guid.NewGuid();
         public string Code { get; private set; }
